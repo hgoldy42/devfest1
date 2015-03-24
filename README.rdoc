@@ -1,6 +1,6 @@
 == README
 
-
+This is my first Rails application and first git commit.
 
 Things you may want to cover:
 
